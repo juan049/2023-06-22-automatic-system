@@ -69,4 +69,5 @@ VITE_PUSHER_SCHEME="${PUSHER_SCHEME}"
 VITE_PUSHER_APP_CLUSTER="${PUSHER_APP_CLUSTER}"
 
 
-#
+#Guia Auth
+"https://codevoweb.com/setup-and-use-nextauth-in-nextjs-13-app-directory/"
