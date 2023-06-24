@@ -4,6 +4,12 @@ NEXTAUTH_SECRET=my_ultra_secure_nextauth_secret
 NEXTAUTH_URL=http://localhost:3000
 NEXT_PUBLIC_BACKEND_URL=http://localhost:8000
 
+# Gitpod Front FrontEnd
+NEXTAUTH_SECRET=my_ultra_secure_nextauth_secret
+NEXTAUTH_URL=https://3000-juan049-20230622automat-mv7ad4qf7pg.ws-us100.gitpod.io/
+NEXT_PUBLIC_BACKEND_URL=http://localhost:8000
+
+
 #Desktop  Backend 
 APP_NAME=Laravel
 APP_ENV=local
